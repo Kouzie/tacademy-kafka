@@ -12,7 +12,7 @@ import java.util.concurrent.Executors;
 public class ConsumerWithMultiThread {
     private static String TOPIC_NAME = "test";
     private static String GROUP_ID = "testgroup";
-    private static String BOOTSTRAP_SERVERS = "{aws ec2 public ip}:9092";
+    private static String BOOTSTRAP_SERVERS = "3.23.88.6:9092";
     private static int CONSUMER_COUNT = 3;
     private static List<ConsumerWorker> workerThreads = new ArrayList<>();
 
@@ -25,7 +25,7 @@ public class ConsumerWithMultiThread {
         configs.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class.getName());
         configs.put(ConsumerConfig.ENABLE_AUTO_COMMIT_CONFIG, false);
 
-        ExecutorService executorService = Executors.newCachedThreadPool();
+        ExecutorService executorService = Executors.newCachedThreadPool(); // thread 완료시 스레드종료 맨 위의 ShutdownThread 호출?
         for (int i = 0; i < CONSUMER_COUNT; i++) {
             ConsumerWorker worker = new ConsumerWorker(configs, TOPIC_NAME, i);
             workerThreads.add(worker);

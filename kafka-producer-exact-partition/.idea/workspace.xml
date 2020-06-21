@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="212161f9-a791-4c8b-8590-0009d36ef773" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/simple-kafka-consumer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.gradle/6.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.gradle/6.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-auto-commit/src/main/java/com/tacademy/ConsumerWithAutoCommit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kafka-consumer-auto-commit/src/main/java/com/tacademy/ConsumerWithAutoCommit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.gradle/6.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.gradle/6.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-multi-thread/src/main/java/com/tacademy/ConsumerWithMultiThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kafka-consumer-multi-thread/src/main/java/com/tacademy/ConsumerWithMultiThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-save-metric/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-save-metric/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-save-metric/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-save-metric/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-save-metric/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-save-metric/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-save-metric/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../kafka-consumer-save-metric/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-save-metric/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-save-metric/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-save-metric/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-save-metric/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-save-metric/src/main/java/com/tacademy/ConsumerSaveMetric.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kafka-consumer-save-metric/src/main/java/com/tacademy/ConsumerSaveMetric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.gradle/6.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.gradle/6.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-consumer-sync-commit/src/main/java/com/tacademy/ConsumerWithSyncCommit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kafka-consumer-sync-commit/src/main/java/com/tacademy/ConsumerWithSyncCommit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tacademy/ProducerExactParition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tacademy/ProducerExactParition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.gradle/6.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.gradle/6.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-producer-key-value/src/main/java/com/tacademy/ProducerWithKeyValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kafka-producer-key-value/src/main/java/com/tacademy/ProducerWithKeyValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.gradle/6.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.gradle/6.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-consumer/src/main/java/com/tacademy/SimpleConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-kafka-consumer/src/main/java/com/tacademy/SimpleConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/6.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/6.1.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/6.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.idea/simple-kafka-producer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-kafka-producer/src/main/java/com/tacademy/SimpleProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-kafka-producer/src/main/java/com/tacademy/SimpleProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../실습 커맨드 리스트.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../실습 커맨드 리스트.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dWo7ywxGsSVuNlTZ8ji1wIk3G4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="212161f9-a791-4c8b-8590-0009d36ef773" name="Default Changelist" comment="" />
+      <created>1592550046327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592550046327</updated>
+      <workItem from="1592550047977" duration="2000" />
+    </task>
+    <servers />
+  </component>
+</project>

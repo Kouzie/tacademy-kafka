@@ -1,0 +1,10 @@
+rootProject.name = 'tacademy-kafka'
+
+include 'kafka-consumer-auto-commit'
+include 'kafka-consumer-multi-thread'
+include 'kafka-consumer-save-metric'
+include 'kafka-consumer-sync-commit'
+include 'kafka-producer-exact-partition'
+include 'kafka-producer-key-value'
+include 'simple-kafka-consumer'
+include 'simple-kafka-producer'

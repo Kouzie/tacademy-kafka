@@ -12,8 +12,8 @@ import java.util.concurrent.Executors;
 public class ConsumerSaveMetric {
     private static String TOPIC_NAME = "my-computer-metric";
     private static String GROUP_ID = "metric-consumers";
-    private static String BOOTSTRAP_SERVERS = "{aws ec2 public ip}:9092";
-    private static int CONSUMER_COUNT = 3;
+    private static String BOOTSTRAP_SERVERS = "3.23.88.6:9092";
+    private static int CONSUMER_COUNT = 5;
     private static List<ConsumerWorker> workerThreads = new ArrayList<>();
 
     public static void main(String[] args) {

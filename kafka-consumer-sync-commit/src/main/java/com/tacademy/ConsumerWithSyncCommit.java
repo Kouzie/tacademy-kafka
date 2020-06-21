@@ -13,7 +13,7 @@ import java.util.Properties;
 public class ConsumerWithSyncCommit {
     private static String TOPIC_NAME = "test";
     private static String GROUP_ID = "testgroup";
-    private static String BOOTSTRAP_SERVERS = "{aws ec2 public ip}:9092";
+    private static String BOOTSTRAP_SERVERS = "3.23.88.6:9092";
 
     public static void main(String[] args) {
         Properties configs = new Properties();
@@ -21,7 +21,7 @@ public class ConsumerWithSyncCommit {
         configs.put(ConsumerConfig.GROUP_ID_CONFIG, GROUP_ID);
         configs.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class.getName());
         configs.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class.getName());
-        configs.put(ConsumerConfig.ENABLE_AUTO_COMMIT_CONFIG, false);
+        configs.put(ConsumerConfig.ENABLE_AUTO_COMMIT_CONFIG, false); // auto commit 을 false 로 함으로 중복처리 가능성 제거
 
         KafkaConsumer<String, String> consumer = new KafkaConsumer<>(configs);
         consumer.subscribe(Arrays.asList(TOPIC_NAME));
@@ -30,8 +30,8 @@ public class ConsumerWithSyncCommit {
             ConsumerRecords<String, String> records = consumer.poll(Duration.ofSeconds(1));
             for (ConsumerRecord<String, String> record : records) {
                 System.out.println(record.value());
-                consumer.commitSync();
-                record.offset()
+                consumer.commitSync(); // 가져올때마사 커밋을 진행함으로 중복처리 가능성이 없어진다.
+                record.offset();
             }
         }
     }

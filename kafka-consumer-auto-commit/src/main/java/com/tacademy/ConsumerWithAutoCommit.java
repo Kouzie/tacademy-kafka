@@ -13,7 +13,7 @@ import java.util.Properties;
 public class ConsumerWithAutoCommit {
     private static String TOPIC_NAME = "test";
     private static String GROUP_ID = "testgroup";
-    private static String BOOTSTRAP_SERVERS = "{aws ec2 public ip}:9092";
+    private static String BOOTSTRAP_SERVERS = "3.23.88.6:9092";
 
     public static void main(String[] args) {
         Properties configs = new Properties();
@@ -34,4 +34,6 @@ public class ConsumerWithAutoCommit {
             }
         }
     }
+
 }
+

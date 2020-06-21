@@ -9,7 +9,7 @@ import java.util.Properties;
 
 public class ProducerExactParition {
     private static String TOPIC_NAME = "test";
-    private static String BOOTSTRAP_SERVERS = "{aws ec2 public ip}:9092";
+    private static String BOOTSTRAP_SERVERS = "3.23.88.6:9092";
     private static int PARTITION_NUMBER = 1;
 
     public static void main(String[] args) {
